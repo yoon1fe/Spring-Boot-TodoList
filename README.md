@@ -10,7 +10,7 @@
 >
 > Spring Boot
 >
-> MySQL
+> MySQL -> MariaDB ?!
 >
 > 빌드 도구: Gradle
 >
